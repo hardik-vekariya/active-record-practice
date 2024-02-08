@@ -30,7 +30,7 @@ The database schema consists of the following tables:
 2. Navigate to the project directory:
 
    ```bash
-   cd bookstore
+   cd active-record-practice
 
 3. Setup your project dependancy:
 
@@ -38,7 +38,7 @@ The database schema consists of the following tables:
 
    ```bash
    rails db:setup
-
+- here i enhanced seed file using faker gem
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or create a pull request.

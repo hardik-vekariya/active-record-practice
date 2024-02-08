@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Seed authors
 5.times do
   Author.create(

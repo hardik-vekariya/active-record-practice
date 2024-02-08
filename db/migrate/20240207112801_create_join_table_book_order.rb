@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class CreateJoinTableBookOrder < ActiveRecord::Migration[7.1]
   def change
     create_join_table :books, :orders do |t|
